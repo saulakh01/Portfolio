@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Portfolio"
+  title: "Samreen Aulakh"
   navbar:
     left:
       - href: index.qmd
